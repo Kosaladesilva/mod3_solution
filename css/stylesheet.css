@@ -14,7 +14,9 @@ body{
     text-align: center;
     color:fff;
 }
-
+section{
+  margin-top:30px;
+}
 #chicken{
   background-color: #ffe6cc;
 }
