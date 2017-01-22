@@ -2,3 +2,9 @@
 body{
   background-color:red;
 }
+
+#header-nav{
+  background-color:fff;
+  border-radius:0;
+  border:0;
+}
