@@ -16,13 +16,14 @@ body{
 }
 
 #chicken{
-  background-color:red;
+  background-color: #ffe6cc;
 }
 
 #beef{
-  background-color:blue;
+  background-color:#ff9999
+;
 }
 
 #sushie{
-  background-color:yellow;
+  background-color:#cce0ff;
 }
