@@ -14,3 +14,15 @@ body{
     text-align: center;
     color:fff;
 }
+
+#chicken{
+  background-color:red;
+}
+
+#beef{
+  background-color:blue;
+}
+
+#sushie{
+  background-color:yellow;
+}
