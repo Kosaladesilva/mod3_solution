@@ -33,6 +33,10 @@ section{
 }
 
 
-
+@media screen and (min-width: 768px) {    
+   .navbar-collapse.collapse {
+        display: none!important;
+    }
+}
 
 
